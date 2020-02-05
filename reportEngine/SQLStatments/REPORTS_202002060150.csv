@@ -1,0 +1,13 @@
+REPORT_ID,REPORT_NAME,DISPLAY_NAME_AR,DISPLAY_NAME_EN,PATH,REPORTS_CATEGORY_ID,IS_OPERATIONAL,REPORT_DESC
+46,STC_Complex_Gates,البوايات الخارجية,External gates,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+45,4.1.12 Deduction Report for Absence & Lateness-excel,خصومات الغياب و التأخير اكسل,Absence and Lateness Deduction Excel,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+2,4.1.6Saudi & non-Saudi Report,سعودي او غير سعودي,Saudi & non-Saudi Report,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+3,4.1.7Male & Female Report,ذكر او انثي,Male & Female Report,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+1,4.1.2HR Resign Term Report,الاستقالات,HR Resign Term Report,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+4,"4.1.8Resign, Transfer & Termination Report",الاستقالات و الانتقالات,"Resign, Transfer & Termination Report",C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+5,4.1.11Agents Count per Category,عدد العملاء,Agents Count per Category,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+41,4.1.1No Show Report,No Show Report,No Show Report,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+42,4.1.12 Deduction Report for Absence & Lateness,خصومات الغياب و التأخير,Absence and Lateness Deduction,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+43,employees movements,حركة الموظفين,Employees Movements,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+44,Employees shift,مخطط الموظفين,Employees shift,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
+21,4.1.16ContinuousNPA,الغياب بدون اذن المستمر,Continuous Non-permitted Absence,C:\\Users\\mohamed.hassan\\JaspersoftWorkspace\\AdaayReports\\toRun\\,1,N,
